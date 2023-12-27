@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text align="center" color="#fff" />
+      <mj-section background-color="#000" />
+    </mj-attributes>
+    <mj-breakpoint width="300px" />
+    <mj-style> .phone { text-decoration: none; color: #000; } .email { text-decoration: none; color: #000; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f2f2f2" width="608px">
+    <!-- HEADER SECTION -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/T139hKY3/gold.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/Gm8XkTPB/gold-accent1.png" width="130px" align="left"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/jSpZvqvM/logo.png" width="90px" align="right" padding-top="13px" padding-right="5px" href="https://www.signguru.ca/switch" />
+        </mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/fyqvdMJj/sign-guru.png" width="120px" align="left" padding-top="28px" href="https://www.signguru.ca/switch"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/R0wGYrD4/gold-accent2.png" width="120px" align="right"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/pVsC4Jqh/want.png" width="320px" align="center"></mj-image>
+        <mj-image src="https://i.postimg.cc/d1B6q2Ff/business.png" width="490px" padding-top="2px" align="center"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- OPTION 1 SECTION -->
+    <mj-section padding-top="25px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/fTkCNSrH/option1.png" align="center" width="650px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/WbKnbbRs/slogan.png" align="center"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- OPTION 2 SECTION -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/L81VqKRL/option2.png" align="center"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- FOOTER -->
+    <mj-section background-color="linear-gradient(0deg, rgba(228,186,71,1) 0%, rgba(176,135,50,1) 31%, rgba(251,242,178,1) 56%, rgba(176,135,50,1) 83%);" padding="15px 0 15px 0">
+      <mj-column>
+        <mj-text font-size="28px" color="#000" font-weight="700"><a href="tel:7803417446" class="phone">780.341.7446</a> | <a href="mailto:edm@signguru.ca" class="email">edm@signguru.ca</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-social icon-size="50px" mode="horizontal" icon-padding="15px">
+          <mj-social-element name="instagram" background-color="#000" href="https://www.instagram.com/signguruinc/"></mj-social-element>
+          <mj-social-element name="facebook" background-color="#000" href="https://www.facebook.com/signguruinc/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
